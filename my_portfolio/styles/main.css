@@ -38,6 +38,7 @@ body .container {
 }
 
 body .container .first-row {
+  top:200px;
   color: white;
   min-height: 100vh;
   display: -webkit-box;
