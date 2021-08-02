@@ -455,11 +455,4 @@ body .fourth-row div.social-media ul li a:hover svg {
     opacity: 1;
   }
 }
-
-@media (max-width: 490px) {
-  .first-row {
-    background: #000;
-    font-size: 3em;
-  }
-}
 /*# sourceMappingURL=main.css.map */
