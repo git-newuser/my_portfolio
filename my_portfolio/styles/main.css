@@ -258,7 +258,7 @@ body .container .scroll-down-btn .bullet-down:hover {
 }
 
 body .container .scroll-down-btn .bullet-down:nth-child(1):after {
-  content: "Projects";
+  content: "projects";
   width: 100px;
   position: absolute;
   right: 0;
@@ -272,7 +272,7 @@ body .container .scroll-down-btn .bullet-down:nth-child(1):after {
 }
 
 body .container .scroll-down-btn .bullet-down:nth-child(2):after {
-  content: "Translates";
+  content: "Translations";
   width: 100px;
   position: absolute;
   right: 0;
