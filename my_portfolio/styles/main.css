@@ -257,7 +257,7 @@ body .container .scroll-down-btn .bullet-down:hover {
   background: white;
 }
 
-body .container .scroll-down-btn .bullet-down:nth-child(1):after {
+body .container .scroll-down-btn div.proj:after {
   content: "projects";
   width: 100px;
   position: absolute;
@@ -271,7 +271,7 @@ body .container .scroll-down-btn .bullet-down:nth-child(1):after {
   color: black;
 }
 
-body .container .scroll-down-btn .bullet-down:nth-child(2):after {
+body .container .scroll-down-btn div.translate:after {
   content: "Translations";
   width: 100px;
   position: absolute;
@@ -285,8 +285,8 @@ body .container .scroll-down-btn .bullet-down:nth-child(2):after {
   color: black;
 }
 
-body .container .scroll-down-btn .bullet-down:nth-child(3):after {
-  content: "Contatct me";
+body .container .scroll-down-btn div.contact:after {
+  content: "Contact me";
   width: 100px;
   position: absolute;
   right: 0;
@@ -315,7 +315,7 @@ body .third-row h1, body .third-row p {
 
 body .third-row p {
   margin-bottom: 2em;
-  color: rgba(139, 139, 139, 0.527);
+  color: rgba(159, 159, 159, 0.900);
 }
 
 body .third-row > div {
